@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: calc(100vh - 60px); /* Adjust  navbar height */
+}
+
+.navbar {
+  height: 60px; /* Adjust this value as needed */
+}
